@@ -142,6 +142,10 @@ If you use this code in your research, please cite our paper:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 😄 Colab
+You could reproduce some results with the colab link here by uploading the plot.zip into the folder :https://colab.research.google.com/drive/1urFq3f1cjMtF29syTgPcb8Y_51cd5EIr?usp=sharing 
+It is recommended running the full pipeline with the docker packed up by Nvidia:  https://www.nvidia.cn/high-performance-computing/earth-2/. It is hard to do that on colab.
+If interested in running Pangu on colab, you could go to: https://github.com/kelvinfkr/Perturbation_AI_weather which runs Pangu in one click. 
 
 ## 🙏 Acknowledgments
 
