@@ -2,7 +2,7 @@
 
 ## Data-driven Solar Forecasting Enables Near-Optimal Economic Decisions
 
-This repository contains the implementation code for the research paper **"Data-driven solar forecasting enables near-optimal economic decisions"**, a collaborative work between **NVIDIA**, **Tongji University**, **Shanghai Innovation Institution**, and **Shanghai Jiao Tong University**.
+This repository contains the implementation code for the research paper **"Data-driven solar forecasting enables near-optimal economic decisions"**, a collaborative work between **Shanghai Innovation Institution**, **NVIDIA**, **Tongji University**,  and **Shanghai Jiao Tong University**.
 
 ## 📋 Overview
 
